@@ -11,24 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: digitalRoot
-  title: Digital Root
-  description: 'Okay, root of 64? - 8. No, the other kind of root. 4 then! NO, THE
-    OTHER KIND!
+  id: grimmMod
+  title: Grimm
+  description: 'Module idea by Pruz
+
+    Twitch Plays support, Digital Root model by red031000
 
 
-    Recreation of an old and lost module from before the steam workshop. This module
-    was only ever redistributed on the subreddit
 
+    Manual location: N/A
 
-    Original module and Idea by CyanLights
-
-    Recreation and Twitch Plays support by red031000
-
-
-    Manual location: https://ktane.timwi.de/HTML/Digital%20Root.html
-
-    Module ID: digitalRoot'
-  version: 1.5
+    Module ID: grimmModule'
+  version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: f364f96f3f468e84eaba78e74df25fcb, type: 3}

@@ -1,5 +1,7 @@
-Digital Root Module for KTaNE
+Grimm Module for KTaNE
 
-Originally created by CyanLights
+Mod idea by Pruz
+Created by VFlyer
 
-Rewritten and TP support by red031000
+Digital Root originally created by CyanLights
+Digital Root Rewritten and TP support by red031000
