@@ -67,7 +67,9 @@ public class GrimmScript : MonoBehaviour {
 	void ResetModule()
     {
 		centerNumToView = Random.Range(1, 10);
-		numsToViewOutside = Enumerable.Range(0, 10).ToArray().Shuffle().Take(3).ToList();
+		numsToViewOutside = new List<int>();
+        for (var x = 0; x < 3; x++)
+			numsToViewOutside.Add(Random.Range(0, 10));
 		var currentValuesTimesCenterNum = new List<int>();
 		foreach (var curNumOutside in numsToViewOutside)
         {

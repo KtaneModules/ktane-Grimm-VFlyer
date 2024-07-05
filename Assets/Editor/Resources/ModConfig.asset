@@ -15,7 +15,11 @@ MonoBehaviour:
   title: Grimm
   description: 'Module idea by Pruz
 
-    Twitch Plays support, Digital Root model by red031000
+    Implemented by VFlyer
+
+    This module is forked from red031000''s maintained Digital Root, with some adjustments
+    of the model and visuals. TP Support is by the same author, with minimal to no
+    changes.
 
 
 
@@ -24,4 +28,4 @@ MonoBehaviour:
     Module ID: grimmModule'
   version: 1.0
   outputFolder: build
-  previewImage: {fileID: 2800000, guid: f364f96f3f468e84eaba78e74df25fcb, type: 3}
+  previewImage: {fileID: 2800000, guid: 17493d90665ab014dbcec20338a20f0f, type: 3}
